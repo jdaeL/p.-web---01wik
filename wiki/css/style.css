@@ -1,0 +1,14 @@
+.boxes-a {
+    display: inline-block; 
+    text-align: left;
+}
+.boxes-b {
+    display: inline-block; 
+    text-align: left;
+}
+
+.container-label {
+/*  padding: 20px;
+  background-color: #eee;
+  border: 1px solid #ccc;
+*/}
